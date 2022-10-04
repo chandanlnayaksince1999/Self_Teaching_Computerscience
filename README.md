@@ -8,13 +8,6 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
 
-## Programming
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-[Programming Languages, Part A](imp.i384100.net/6b13oK) | UW | 5 weeks | 8-16 hours/week | once a month | Object Oriented Programming in Java
-[Programming Languages, Part B](https://imp.i384100.net/2rebMz) | UW | 3 weeks | 8-16 hours/week | once a month | Programming Languages, Part A
-[Programming Languages, Part C](https://imp.i384100.net/Ryogm9) | UW | 3 weeks | 8-16 hours/week | once a month | Programming Languages, Part B
-
 ## Math
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
