@@ -64,7 +64,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 `and more`
 CCourses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals) | RIT | 8 weeks | 10-12 hours/week | once a month | None
-[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) | UC | 4 weeks | 4 hours/week | once a month | None
-[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | UC | 4 weeks | 4 hours/weeK| once a month | None
+[Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals) | RIT | 8 weeks | 10-12 hours/week | Self Paced| None
+[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) | UC | 4 weeks | 4 hours/week | Self Paced | None
+[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | UC | 4 weeks | 4 hours/weeK| Self Paced | None
 [Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | UC | 4 weeks | 5 hours/week | once a month | None
