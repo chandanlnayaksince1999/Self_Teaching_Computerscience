@@ -53,18 +53,10 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Linux Command Line Basics](https://imp.i115008.net/linux-command-line-basics) | Udacity | 1 week | 5 hours/week | self-paced | none
 [The Unix Workbench](https://imp.i384100.net/QOXZ4P) | JHU | 4 weeks | 4 hours/week | once a month | none
 
-### Core security
-**Topics covered**
-`Confidentiality, Integrity, Availability`
-`Secure Design`
-`Defensive Programming`
-`Threats and Attacks`
-`Network Security`
-`Cryptography`
-`and more`
+## Core security
+
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals) | RIT | 8 weeks | 10-12 hours/week | Self Paced| None
 [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) | UC | 4 weeks | 4 hours/week | Self Paced | None
 [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | UC | 4 weeks | 4 hours/weeK| Self Paced | None
 [Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | UC | 4 weeks | 5 hours/week | once a month | None
