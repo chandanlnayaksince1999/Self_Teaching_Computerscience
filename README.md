@@ -62,7 +62,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 `Network Security`
 `Cryptography`
 `and more`
-CCourses | School | Duration | Effort | Frequency | Prerequisites
+Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals) | RIT | 8 weeks | 10-12 hours/week | Self Paced| None
 [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) | UC | 4 weeks | 4 hours/week | Self Paced | None
