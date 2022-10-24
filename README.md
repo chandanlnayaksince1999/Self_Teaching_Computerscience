@@ -163,7 +163,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 `and more`
 
 Courses | Duration | Effort | Prerequisites | 
-:-- | :--: | :--: | :--: | :--:
+:-- | :--: | :--: | :--: | 
 [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | 10 hours/week | core programming | 
 [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| 2 weeks | 10 hours/week | core programming | 
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | 10 hours/week | core programming | 
