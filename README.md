@@ -1,9 +1,3 @@
-# The Open Source Computer Science Degree
-
-Hi , This is Chandan L Nayak 
-I decided My self to teach Computer Science at university Level for free ,
-This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
-
 # The Python Open Source Computer Science Degree
 
 This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
@@ -67,54 +61,6 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Algorithms, Part I](https://imp.i384100.net/DVm9eo) | Princeton | 6 weeks | 6-12 hours/week | once a month | Computer Science: Algorithms, Theory, and Machines
 [Algorithms, Part II](https://imp.i384100.net/jW4xyv) | Princeton | 6 weeks | 6-12 hours/week | once a month | Algorithms, Part I
 
-#### Core theory
-
-**Topics covered**:
-`divide and conquer`
-`sorting and searching`
-`randomized algorithms`
-`graph search`
-`shortest paths`
-`data structures`
-`greedy algorithms`
-`minimum spanning trees`
-`dynamic programming`
-`NP-completeness`
-`and more`
-
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science | [chat](https://discord.gg/mKRS7tY)
-[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | 4-8 hours/week | Divide and Conquer, Sorting and Searching, and Randomized Algorithms | [chat](https://discord.gg/Qstqe4t)
-[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | 4-8 hours/week | Graph Search, Shortest Paths, and Data Structures | [chat](https://discord.gg/dWVvjuz)
-[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | 4-8 hours/week | Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming | [chat](https://discord.gg/dYuY78u)
-
-
-### Core applications
-
-**Topics covered**:
-`Agile methodology`
-`REST`
-`software specifications`
-`refactoring`
-`relational databases`
-`transaction processing`
-`data modeling`
-`neural networks`
-`supervised learning`
-`unsupervised learning`
-`OpenGL`
-`ray tracing`
-`and more`
-
-Courses | Duration | Effort | Prerequisites | 
-:-- | :--: | :--: | :--: | 
-[Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | 10 hours/week | core programming | 
-[Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| 2 weeks | 10 hours/week | core programming | 
-[Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | 10 hours/week | core programming | 
-[Machine Learning](https://www.coursera.org/learn/machine-learning)| 11 weeks | 4-6 hours/week | linear algebra | 
-[Computer Graphics](https://www.edx.org/course/computer-graphics-2)| 6 weeks | 12 hours/week | C++ or Java, linear algebra |
-[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction) | 6 weeks | 8-10 hours/week | Core Programming, and a [sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | 
 
 ## Applications
 
